@@ -1,0 +1,8 @@
+export default function TrainerApp() {
+  return (
+    <div>
+      <h1>Trainer App</h1>
+      <p>Welkom bij de Trainer App!</p>
+    </div>
+  )
+}
